@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(157, 193, 240);
+  text-align: center;
+}
+
+label {
+  margin: 10px 10px 10px 10px;
+  font-size: 20px;
+}
+
+input {
+  margin: 10px 10px;
+}
+
+form {
+  background-color: hsla(225, 95%, 8%, 0.3);
+}
